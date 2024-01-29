@@ -1,3 +1,6 @@
+# SESSION based authenticated simple web app
+
+
 * mysql -u root
 
 ```
